@@ -1,1 +1,1 @@
-# python-study
+# python entry learning through coursera
